@@ -30,7 +30,7 @@ The core innovation of this project lies in identifying and overcoming the limit
 ## Technical Approach & Experiments
 * **Data:** Real-world clinical data from Pusan National University Hospital.
 * **Preprocessing:** Raw signals were resampled to 500Hz and cropped to 10s, resulting in 2500-length sequences.
-* **Feature Fusion:** Experimented with various techniques to combine features from the two ECGs, including **subtraction, concatenation, and attention mechanisms**, to maximize comparison accuracy.
+* **Feature Fusion:** Experimented with various techniques to combine features from the two ECGs, including **subtraction, concatenation, and attention mechanisms**, to maximize F1 score.
 
 ## Results
 The proposed 1D CNN-based ST-MEM model achieved significant performance gains in the challenging binary classification task of tracking improvement.
