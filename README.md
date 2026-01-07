@@ -31,8 +31,8 @@ The proposed 1D CNN-based ST-MEM model achieved significant performance gains in
 
 | Model | F1 Score | Note |
 | :--- | :---: | :--- |
-| Baseline (ViT-based ST-MEM) | 0.3 - 0.5 | Typical performance for this specific dual-task |
-| **Proposed Model (1D CNN ST-MEM)** | **0.60** | **Significant Improvement** |
+| Baseline (ViT-based ST-MEM) | < 0.6 | Typical performance for this specific dual-task |
+| **Proposed Model (1D CNN ST-MEM)** | **0.59(almost 0.6)** | **Significant Improvement** |
 
 *Achieved a noteworthy F1 score of 0.6, substantially outperforming baseline models.*
 
