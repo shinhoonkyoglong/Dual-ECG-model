@@ -1,13 +1,7 @@
 # Capstone-2025-Autumn Semester
 # Dual-ECG Patient Improvement Tracking Model
 
-> **A novel deep learning approach using a modified ST-MEM autoencoder to detect patient improvement by comparing serial ECGs.**
-
-<p align="center">
-  <img src="[여기에 ViT vs 1D CNN 구조 비교 다이어그램 이미지 주소]" width="80%">
-  <br>
-  <em>Figure 1: Architecture modification from standard ViT-based ST-MEM to the proposed 1D CNN-based structure for enhanced local feature sensitivity.</em>
-</p>
+> **A NEW task using a modified ST-MEM autoencoder to detect patient improvement by comparing serial ECGs.**
 
 ## 📖 Project Overview
 In clinical settings, comparing a patient's past and present ECGs is crucial for monitoring disease progression and verifying drug efficacy. However, automating this comparison is challenging due to the subtle nature of localized signal changes over time.
