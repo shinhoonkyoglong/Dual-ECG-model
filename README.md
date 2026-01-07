@@ -1,2 +1,1 @@
-
-<img width="873" height="1208" alt="image" src="https://github.com/user-attachments/assets/1bece3fa-86fa-41d2-81b5-b421e45f4487" />
+![2025캡스톤 포스터](https://github.com/user-attachments/assets/8195d70a-c1b6-4eeb-bf89-7cc255a12a24)
