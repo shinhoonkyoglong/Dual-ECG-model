@@ -1,4 +1,4 @@
-## Capstone-2025-Autumn Semester
+# Capstone-2025-Autumn Semester
 # Dual-ECG Patient Improvement Tracking Model
 
 > **A novel deep learning approach using a modified ST-MEM autoencoder to detect patient improvement by comparing serial ECGs.**
