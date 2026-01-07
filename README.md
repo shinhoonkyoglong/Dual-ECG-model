@@ -42,7 +42,7 @@ The proposed 1D CNN-based ST-MEM model achieved significant performance gains in
 
 *Achieved a noteworthy F1 score of 0.6, substantially outperforming baseline models.*
 
-## 🛠 Tech Stack
+## Tech Stack
 - **Deep Learning:** PyTorch
 - **Model Architecture:** Custom ST-MEM (Autoencoder based on 1D CNN)
 - **Data Processing:** Pandas, NumPy
